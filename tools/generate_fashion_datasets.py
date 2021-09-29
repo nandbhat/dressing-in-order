@@ -66,4 +66,4 @@ def make_dataset(dir):
 					print(os.path.join(train_root, path_names))
 # 					pass
 
-make_dataset('./dataset/fashion/')
+make_dataset('../dataset/fashion/')
